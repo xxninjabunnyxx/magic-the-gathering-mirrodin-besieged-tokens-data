@@ -1,0 +1,116 @@
+---
+object: card
+id: 2d84926d-5892-4c62-a943-fac9f0ddc569
+oracle_id: 80fe0a7b-a310-41a1-8417-c734402e9c4f
+multiverse_ids: []
+tcgplayer_id: 78458
+name: Golem
+lang: en
+released_at: '2011-02-04'
+uri: https://api.scryfall.com/cards/2d84926d-5892-4c62-a943-fac9f0ddc569
+scryfall_uri: https://scryfall.com/card/tmbs/3/golem?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/d/2d84926d-5892-4c62-a943-fac9f0ddc569.jpg?1561756844
+  normal: https://cards.scryfall.io/normal/front/2/d/2d84926d-5892-4c62-a943-fac9f0ddc569.jpg?1561756844
+  large: https://cards.scryfall.io/large/front/2/d/2d84926d-5892-4c62-a943-fac9f0ddc569.jpg?1561756844
+  png: https://cards.scryfall.io/png/front/2/d/2d84926d-5892-4c62-a943-fac9f0ddc569.png?1561756844
+  art_crop: https://cards.scryfall.io/art_crop/front/2/d/2d84926d-5892-4c62-a943-fac9f0ddc569.jpg?1561756844
+  border_crop: https://cards.scryfall.io/border_crop/front/2/d/2d84926d-5892-4c62-a943-fac9f0ddc569.jpg?1561756844
+mana_cost: ''
+cmc: 0.0
+type_line: Token Artifact Creature — Golem
+oracle_text: ''
+power: '9'
+toughness: '9'
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 7a3bb4ab-6fe7-4926-a929-3e37691f287a
+  component: combo_piece
+  name: Titan Forge
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/7a3bb4ab-6fe7-4926-a929-3e37691f287a
+- object: related_card
+  id: 2d84926d-5892-4c62-a943-fac9f0ddc569
+  component: token
+  name: Golem
+  type_line: Token Artifact Creature — Golem
+  uri: https://api.scryfall.com/cards/2d84926d-5892-4c62-a943-fac9f0ddc569
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ab9695ca-ca49-46c2-9bc4-c18e50f8689b
+set: tmbs
+set_name: Mirrodin Besieged Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/ab9695ca-ca49-46c2-9bc4-c18e50f8689b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atmbs&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tmbs?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2d84926d-5892-4c62-a943-fac9f0ddc569/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A80fe0a7b-a310-41a1-8417-c734402e9c4f&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Svetlin Velinov
+artist_ids:
+- ffd063ae-c097-4f26-b2e6-b1e2137708bc
+illustration_id: b8444ff1-65de-40e3-8dee-fc092dd81beb
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.82'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Golem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78458?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Golem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Golem&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
